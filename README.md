@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KouGH96
 - 👀 I’m interested in beginner coding, intermediate 
 - 🌱 I’m currently learning javascript, python, java(newest for me)
-- 💞️ I’m looking to collaborate on nothing yet
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...on github
 
 <!---
